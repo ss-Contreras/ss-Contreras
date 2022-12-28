@@ -2,6 +2,7 @@
 
  <h6>
   Lenguajes: Python, JavaScript, PHP, Java
+  </br>
   Frameworks/Librerias: React, Flask
   Extras: HTMl, Bootstrap, MUI, AGGRID
   Aprendiendo: Visual Basic, .NET, Django, Angular
