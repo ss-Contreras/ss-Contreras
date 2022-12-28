@@ -17,6 +17,8 @@
 <h1> 
   Puedes encontrarme en:
 <h1/>
+  <a href="https://www.linkedin.com/in/sergio-contreras-7ab49224a/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="React" width="65" height="65"/>  </a>
+</hr>
 
 <p align="left"> 
 <a href="https://reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="65" height="65"/>  </a>
