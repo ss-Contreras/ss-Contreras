@@ -1,11 +1,11 @@
 <h2>Hola mundo 👾, Soy Sergio Contreras...<h2/>
 
-<div class="col-12 col-md-6">
+  
   Lenguajes: Python, JavaScript, PHP, Java
   Frameworks/Librerias: React, Flask
   Extras: HTMl, Bootstrap, MUI, AGGRID
   Aprendiendo: Visual Basic, .NET, Django, Angular
-<div/>
+
 <!--
 **xWawi/xWawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
