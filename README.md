@@ -17,7 +17,9 @@
 <h1> 
   Puedes encontrarme en:
 <h1/>
+  <p align="center">
   <a href="https://www.linkedin.com/in/sergio-contreras-7ab49224a/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="React" width="20" height="20"/>  </a>
+    </p>
 </hr>
 
 ### Tecnologias
