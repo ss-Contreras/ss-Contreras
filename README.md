@@ -1,5 +1,5 @@
 # Hola mundo 👾, Soy Sergio Contreras...
-#### Desarrollador Frontend aprendiendo back.
+## Desarrollador Frontend aprendiendo back.
   Conocimiento en...
 
 
