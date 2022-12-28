@@ -20,7 +20,7 @@
 
    <p align="left"> 
      <a href="https://reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="65" height="65"/>  </a>
-     
+          <a href="https://angular.io/docs" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="React" width="65" height="65"/>  </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
 
