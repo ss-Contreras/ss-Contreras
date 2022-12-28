@@ -11,6 +11,8 @@
   </br>
 <h6/>
 
-Puedes encontrarme en 
+<h1> 
+  Puedes encontrarme en:
+<h1/>
 
 ![reactIMg](https://user-images.githubusercontent.com/91096090/209746294-ed8c440f-aff2-40eb-bbb3-d4b45b6de93d.jpg)
