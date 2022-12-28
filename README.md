@@ -1,7 +1,6 @@
 <h2>Hola mundo 👾, Soy Sergio Contreras...<h2/>
 <h6>
-  <b>
-  Lenguajes:</b> Python, JavaScript, PHP, Java.
+  Lenguajes: Python, JavaScript, PHP, Java.
   </br>
   Frameworks/Librerias: React, Flask.
  </br>
