@@ -1,4 +1,5 @@
 <h2>Hola mundo 👾, Soy Sergio Contreras...<h2/>
+  Conocimiento en...
 <h6>
   Lenguajes: Python, JavaScript, PHP, Java.
   </br>
