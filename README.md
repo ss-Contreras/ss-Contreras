@@ -24,6 +24,7 @@
 <a href="https://www.php.net/docs.php" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="65" height="65"/>  </a>
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="65" height="65"/>  </a>
 <a href="https://docs.python.org/3/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="65" height="65"/>  </a>
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="65" height="65"/>  </a>
 <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="65" height="65"/>  </a>
 <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="65" height="65"/>  </a>
 
