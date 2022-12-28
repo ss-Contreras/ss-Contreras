@@ -28,7 +28,7 @@
 <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="65" height="65"/>  </a>
 <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="65" height="65"/>  </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="visual" width="65" height="65"/>  </a>
-
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="visual" width="65" height="65"/>  </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
 
