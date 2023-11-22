@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **Drizzle and prisma**
+- 🌱 I’m currently learning **Nextjs and Django**
 
 - 💬 Ask me about **React, Nextjs, HTML**
 
