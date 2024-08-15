@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **Nextjs and Django**
+- 🌱 I’m currently learning **React and Astro**
 
-- 💬 Ask me about **React, Nextjs, HTML**
+- 💬 Ask me about **React, Nextjs and .NET EF6**
 
 - 📫 How to reach me **sergiocontreras2003ss@hotmail.com**
 
