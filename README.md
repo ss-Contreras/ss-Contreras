@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **React and Astro**
+- 🌱 I’m currently learning **React and NextJS**
 
-- 💬 Ask me about **React, Nextjs and .NET EF6**
+- 💬 Ask me about **React, Nextjs and .NET 8 MVC and API RESTful with SQL Server**
 
-- 📫 How to reach me **sergiocontreras2003ss@hotmail.com**
+- 📫 How to reach me **sergiocontreras2003ss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
